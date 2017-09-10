@@ -1,9 +1,4 @@
 <?php
-// $user = "Schy";
-// $pass = "";
-// $url = "107.180.109.10";
-// $db = "db_mccallum";
-
 $user = "root";
 $pass = "";
 $url = "localhost";
